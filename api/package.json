@@ -5,7 +5,7 @@
         "request": "~2",
         "async": "~1",
         "body-parser": "~1",
-        "crypto-js": "~3",
+        "crypto-js": "~4.2.0",
         "ejs": "~2",
         "express": "~4",
         "multer": "~1",
