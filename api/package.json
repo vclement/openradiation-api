@@ -6,7 +6,7 @@
         "async": "~1",
         "body-parser": "~1",
         "crypto-js": "~3",
-        "ejs": "~2",
+        "ejs": "~3.1.10",
         "express": "~4",
         "multer": "~1",
         "node-png": "~0",
